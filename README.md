@@ -10,3 +10,5 @@
 7. All Streamkeys are gonna be livestreaming the video you selected
 
 Enjoy :)
+
+(You can recommend me new features in my discord dm's or telegram, links are in my github bio)
