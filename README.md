@@ -1,6 +1,6 @@
 # Multistreamer
 
-Multistreamer is a Twitch bot cappable of streaming a video to Mutible Accounts at once
+Multistreamer is a Twitch bot cappable of streaming a video to multiple Accounts at once
 
 
 
