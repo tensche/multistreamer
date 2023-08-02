@@ -1,14 +1,28 @@
-# multistreamer
+# Multistreamer
+
+Multistreamer is a Twitch bot cappable of watching a stream from Mutible Accounts at once
 
 
-1. Download the project and unzip it into a new folder
-2. Download ffmpeg and add it to the folder (https://ffmpeg.org)
-3. Add your own Streamkeys to stream_keys.txt (one per line)
-4. Add your own Video to loop (preferably 5-10 seconds long)
-5. Run the python file
-6. Input your full file name (e.g. movie.mp4)
-7. All Streamkeys are gonna be livestreaming the video you selected
 
-Enjoy :)
+## Setup
 
-(You can recommend me new features in my discord dm's or telegram, links are in my github bio)
+
+- Download the project and unzip it into a new folder
+- Download ffmpeg and add it to the folder (https://ffmpeg.org/)
+- Add your own Streamkeys to stream_keys.txt (one per line)
+- Add your own Video to loop (preferably 5-10 seconds long)
+- Run the python file
+- Input your full file name (e.g. movie.mp4)
+- All Streamkeys are gonna be livestreaming the video you selected
+## Authors
+
+- [@tensche](https://www.github.com/tensche)
+
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
+## Contact
+- Discord [@tenschi187](dsc.gg/siea)
