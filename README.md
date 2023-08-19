@@ -21,4 +21,4 @@ Multistreamer is a Twitch bot capable of streaming a video to multiple Accounts 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ## Contact
-- Discord [@tenschi187](dsc.gg/siea)
+- Telegram [@Tenschi](https://t.me/tenschi)
